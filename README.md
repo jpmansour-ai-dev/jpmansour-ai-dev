@@ -1,4 +1,4 @@
-# [Jean-Pierre Mansour]
+# Jean-Pierre Mansour
 
 **Data Scientist & AI Engineer**  
 
