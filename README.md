@@ -1,16 +1,17 @@
-## Hi there 👋
+# [Jean-Pierre Mansour]
 
-<!--
-**jpmansour-ai-dev/jpmansour-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist & AI Engineer**  
 
-Here are some ideas to get you started:
+> 🟢 **Disponible immédiatement** — À la recherche d'un poste en Data Science / AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Engineer certifié · ex-Enedis, ex-ENGIE Green · Profil hybride ML / Deep Learning / LLM & Agents
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### 🎓 Formation
+- Ingénieur IA Expert Certifié — Datalumina (2026)
+- M2 Mathématiques Appliquées — Université de Toulouse (2025)
