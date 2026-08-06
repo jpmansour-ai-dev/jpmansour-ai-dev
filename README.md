@@ -11,5 +11,9 @@ Certified AI Engineer · ex-Enedis, ex-ENGIE Green · Hybrid profile ML / Deep L
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### 🎓 Education
-- Certified Expert AI Engineer — Datalumina (2026)
 - M2 Applied Mathematics — University of Toulouse (2025)
+- M2 Pure Mathematics — University of Toulouse (2024)
+
+### 📜 Certifications
+- AWS Certified Machine Learning Engineer – Associate
+- Datalumina Certified: AI Engineer Expert
