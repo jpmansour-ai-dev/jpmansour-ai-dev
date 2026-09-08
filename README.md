@@ -1,6 +1,8 @@
 # Jean-Pierre Mansour
 **Data Scientist & Ingénieur IA**
-> 🟢 **Mobile France** — En recherche d'opportunité en tant que Data Scientist / Ingénieur IA.
+
+> **En recherche d'opportunité en tant que Data Scientist / Ingénieur IA.**
+> [mansourjp@hotmail.com](mailto:mansourjp@hotmail.com)
 
 Certifié AWS · ex-Enedis, ex-ENGIE Green
 
