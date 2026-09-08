@@ -1,8 +1,8 @@
 # Jean-Pierre Mansour
-**Data Scientist & AI Engineer**
-> 🟢 **Immediately available** — Looking for a position in Data Science / AI Engineering · France or Remote
+**Data Scientist & Ingénieur IA**
+> 🟢 **Mobile France** — En recherche d'opportunité en tant que Data Scientist / Ingénieur IA.
 
-Certified AI Engineer · ex-Enedis, ex-ENGIE Green · Hybrid profile ML / Deep Learning / LLM & Agents
+Certifié AWS · ex-Enedis, ex-ENGIE Green
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -11,8 +11,8 @@ Certified AI Engineer · ex-Enedis, ex-ENGIE Green · Hybrid profile ML / Deep L
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### 🎓 Education
-- M2 Applied Mathematics — University of Toulouse (2025)
-- M2 Pure Mathematics — University of Toulouse (2024)
+- M2 Mathématiques Appliquées — Université de Toulouse (2025)
+- M2 Mathématiques Pures — Université de Toulouse (2024)
 
 ### 📜 Certifications
 - AWS Certified Machine Learning Engineer – Associate
